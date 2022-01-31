@@ -1,0 +1,20 @@
+{
+  "name": "banhammer",
+  "version": "1.0.0",
+  "description": "Discord bot to ban users in voice chat who say certain phrases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/andrew-bbq/BanHammer"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "discord.js": "^13.6.0",
+    "dotenv": "^15.0.0"
+  }
+}
